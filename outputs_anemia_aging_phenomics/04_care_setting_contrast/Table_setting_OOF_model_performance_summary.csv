@@ -1,0 +1,7 @@
+"setting","model_name","n","n_features","correlation_predicted_vs_chronological","MAE","RMSE","age_gap_sd"
+"Outpatient primary","Outpatient_primary full high-coverage feature set",1598,14,0.729956980961502,9.50491974400078,11.8732432796788,8.61920860613487
+"Outpatient primary","Outpatient_primary non-renal feature set",1609,10,0.463086719897079,12.4673585749055,15.4131167648247,7.28486309948901
+"Outpatient Hb<120 sensitivity","Outpatient_Hb120 full high-coverage feature set",1483,14,0.728540245390984,9.6202357730539,11.981727964481,8.74428730593667
+"Outpatient Hb<120 sensitivity","Outpatient_Hb120 non-renal feature set",1492,10,0.458902056989929,12.6308358808044,15.5572963409293,7.34818205859562
+"Inpatient contrast","Inpatient_contrast full high-coverage feature set",1148,14,0.704781730855036,9.12325564824362,11.2117961915302,7.9261682869442
+"Inpatient contrast","Inpatient_contrast non-renal feature set",1149,10,0.393217929541591,11.6814541786563,14.4885229038039,5.97488494203713

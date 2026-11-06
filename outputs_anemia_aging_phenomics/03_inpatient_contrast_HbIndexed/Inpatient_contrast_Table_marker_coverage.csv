@@ -1,0 +1,28 @@
+"marker","marker_label","n_available","pct_available","median_value","q1","q3"
+"baseline_hb_final","Hemoglobin",1157,100,96.3,86.14,105.8
+"baseline_nlr_final","NLR",1061,91.7026793431288,2.07070707070707,1.48,2.94
+"baseline_crp_hscrp","CRP/hsCRP",973,84.0968020743302,2.66,1.25,6.15
+"baseline_hct","Hct",935,80.8124459809853,0.29,0.26,0.32
+"baseline_plt","Platelets",928,80.2074330164218,233.42,196.135,270.92
+"baseline_wbc","WBC",919,79.4295592048401,5.88,4.705,6.905
+"baseline_lymph","Lymphocytes",917,79.2566983578219,1.64,1.29,1.97
+"baseline_rbc","RBC",913,78.9109766637856,4.31,3.98,4.63
+"baseline_mchc","MCHC",912,78.8245462402766,329.035,319.9575,337.16
+"baseline_rdw","RDW",908,78.4788245462403,13.975,12.7875,15.29
+"baseline_mch","MCH",906,78.3059636992221,29.21,27.71,31.03
+"baseline_neut","Neutrophils",905,78.219533275713,3.44,2.58,4.38
+"baseline_mcv","MCV",892,77.0959377700951,88.425,82.75,94.0075
+"baseline_alb","Albumin",815,70.4407951598963,42.52,39.855,45.2
+"baseline_prealb","Prealbumin",808,69.8357821953328,238.68,204.415,276.5625
+"baseline_cysc","Cystatin C",786,67.9343128781331,1.095,0.83,1.52
+"baseline_uric_acid","Uric acid",786,67.9343128781331,317.135,266.52,367.1075
+"baseline_urea","Urea",782,67.5885911840968,6.81,4.9225,9.445
+"baseline_egfr","eGFR",781,67.5021607605877,93.3,78.78,106.22
+"baseline_creatinine","Creatinine",749,64.7363872082973,91.86,66.18,128.81
+"baseline_saa","SAA",694,59.9827139152982,13.26,6.12,32.9
+"baseline_esr","ESR",666,57.5626620570441,14.595,7.2425,22.7025
+"baseline_tibc","TIBC",437,37.7700950734659,58.36,52.08,63.8
+"baseline_transferrin","Transferrin",425,36.732929991357,2.49,2.24,2.78
+"baseline_serum_iron","Serum iron",415,35.8686257562662,12.4,9.085,15.14
+"baseline_tsat","TSAT",403,34.8314606741573,22.34,17.355,28.185
+"baseline_ferritin","Ferritin",373,32.238547968885,65.16,30.86,136.99

@@ -1,0 +1,4 @@
+"cohort","n","age_median","age_q1","age_q3","female_pct","hb_median"
+"Outpatient Hb <120 g/L sensitivity cohort",1492,58,46.4,70.725,82.8418230563003,105.185
+"Outpatient primary sex-specific Hb-indexed anemia cohort",1609,57.5,46.1,70.2,76.8178993163456,106.18
+"All outpatient Hb-indexed adults",1800,56.8,45.6,69.4,76.5555555555556,107.76
